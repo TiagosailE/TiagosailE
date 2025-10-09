@@ -1,4 +1,4 @@
-## Olá, me chame de **Tiago**
+## 👋 Olá, me chame de **Tiago**
 
 🎓 Estudante de Sistemas de Informação  
 
@@ -12,8 +12,8 @@
 
 ### Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails"/>  
 
 ---
