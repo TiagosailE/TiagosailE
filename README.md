@@ -1,13 +1,26 @@
-## Olá, me chame de Tiago
+## 👋 Olá, me chame de **Tiago**
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagosailE&show_icons=true&theme=radical)](https://github.com/TiagosailE)
+Estudante de Sistemas de Informação, a vida inteira consumindo tecnologias 🚀  
 
-[![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagosailE&layout=compact&theme=radical)](https://github.com/TiagosailE)
+---
+<div align="center">
+  
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagosailE&show_icons=true&theme=radical)](https://github.com/TiagosailE)  
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
-          
+</div>
+
+---
+
+### Skills
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails"/>
+</div>
+
+---
+
+### Onde me encontrar
+- 📧 [Email](mailto:tiagosantos.eli@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiago-santos-64a028320/)  
 
