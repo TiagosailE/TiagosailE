@@ -1,6 +1,6 @@
 ## 👋 Olá, me chame de **Tiago**
 
-Estudante de Sistemas de Informação, a vida inteira consumindo tecnologias 🚀  
+Estudante de Sistemas de Informação 
 
 ---
 <div align="center">
