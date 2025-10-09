@@ -1,22 +1,20 @@
-## 👋 Olá, me chame de **Tiago**
+## Olá, me chame de **Tiago**
 
-Estudante de Sistemas de Informação 
+🎓 Estudante de Sistemas de Informação  
 
 ---
-<div align="center">
-  
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagosailE&show_icons=true&theme=radical)](https://github.com/TiagosailE)  
 
-</div>
+### Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagosailE&show_icons=true&theme=radical)](https://github.com/TiagosailE)  
 
 ---
 
 ### Skills
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails"/>
-</div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails"/>  
 
 ---
 
