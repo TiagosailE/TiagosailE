@@ -22,7 +22,7 @@
 ---
 
 ### Onde me encontrar
-- [Email](mailto:tiagosantos.eli@gmail.com)  
+- [Email] tiagosantos.eli@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/tiago-santos-64a028320/)  
 
 
