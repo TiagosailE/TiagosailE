@@ -1,4 +1,3 @@
-## 👋 Olá, me chame de **Tiago**
 
 🎓 Estudante de Sistemas de Informação  
 
