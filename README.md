@@ -1,8 +1,6 @@
 
 🎓 Estudante de Sistemas de Informação  
 
----
-
 
 
 ---
