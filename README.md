@@ -7,7 +7,7 @@ Tenho interesse em desenvolvimento de software, banco de dados e inteligência a
 
 ---
 
-## 🛠️ Tecnologias que já utilizei
+## 🛠️ Skills
 
 ### Linguagens
 <p>
